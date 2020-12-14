@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=worsecoder&theme=dark)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 111 Contributions in the Year 2020
  > 
-> 📦 354.3 kB Used in Github's Storage 
+> 📦 366.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,14 +74,14 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in C++** 
+**I Mostly Code in Python** 
 
 ```text
-C++                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
-Python                   10 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
-Dockerfile               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.26%
+Python                   11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+C++                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
+Dockerfile               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
+Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
