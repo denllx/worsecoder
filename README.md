@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=worsecoder&theme=dark)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My Github Data** 
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 > 📜 6 Public Repositories 
  > 
 > 🔑 43 Private Repositories  
-
+ > 
 **I'm a Night 🦉** 
 
 ```text
