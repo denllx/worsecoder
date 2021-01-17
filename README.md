@@ -88,7 +88,7 @@ Vue                      5 repos             ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/worsecoder/worsecoder/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/worsecoder/worsecoder/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
