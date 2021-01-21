@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  > 
 > 📜 6 Public Repositories 
  > 
-> 🔑 44 Private Repositories  
+> 🔑 45 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
