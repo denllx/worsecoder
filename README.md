@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 > 🏆 126 Contributions in the Year 2021
  > 
-> 📦 582.3 kB Used in Github's Storage 
+> 📦 582.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,5 +91,5 @@ Vue                      5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/worsecoder/worsecoder/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2021
+ Last Updated on 04/09/2021
 <!--END_SECTION:waka-->
